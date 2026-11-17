@@ -11,8 +11,6 @@ public class Main {
 	static Queue<String> q = new LinkedList<>();
 
 	public static void main(String[] args) {
-		String choice;
-
 		addElements();
 		generatePermutations();
 	}
